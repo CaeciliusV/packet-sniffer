@@ -42,10 +42,10 @@ Timestamp: 2026-04-19 18:21:11.112582 | Source: 444.444.4.444 --> Destination: 2
 
 ## Limitations
 
-- Doesnt tell you what information is being passed in encrypted traffic e.g. HTTPS
+- Doesn't tell you what information is being passed in encrypted traffic e.g. HTTPS
 - Mainly tells you your own traffic
 - Only captures packets with an IP layer
-- Doesnt capture traffic on other networks or interfaces
+- Doesn't capture traffic on other networks or interfaces
 - Only identifies three protocols by name: TCP, UDP and ICMP anything else will show Unknown followed by its protocol number 
 
 ## Tools used
